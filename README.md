@@ -4,9 +4,7 @@
 ---
 
 ### 🧠 About Me
-- <p align="center">
-💻 Passionate front-end developer and always trying to improve my skills | 📚 Always learning new tech
-</p>
+- 💻 Passionate front-end developer and always trying to improve my skills | 📚 Always learning new tech
 - 🌱 Currently learning: `java script`
 - 📫 How to reach me: [kiant2005@gmail.com](mailto:kiant2005@gmail.com)
 
